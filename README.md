@@ -1,5 +1,7 @@
 # Projects
 
+On this page, you can explore a collection of the Power BI dashboards that I have personally crafted. Each dashboard serves as a testament to my data visualization expertise and showcases my dedication to delivering top-notch, intuitive, and insightful data-driven solutions. Please feel free to browse through my portfolio and witness the power of visually appealing and interactive dashboards.
+
 
 <html>
   <body>
