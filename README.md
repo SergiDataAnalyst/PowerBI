@@ -105,7 +105,7 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
         <h2>Netflix TV Shows and Movies Stats by Country</h2>
         <p>This Power BI dashboard provides an analysis of TV shows and movies available on Netflix, including their distribution across different countries and genres.</p>
       </div>
-      <iframe title="netflix" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe></iframe>
+      <iframe title="netflix" width="900" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
       </div>
 </div>
 </body>
