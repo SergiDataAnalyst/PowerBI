@@ -15,7 +15,7 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
         background-color: white;
         margin: 20px auto;
         width: 900px;
-        height: 600px;
+        height: 500px;
         box-shadow: 0px 0px 10px grey;
       }
       .dashboard-header {
