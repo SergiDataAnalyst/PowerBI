@@ -107,6 +107,6 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
       </div>
       <iframe title="netflix" width="900" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
       </div>
-</div>
+
 </body>
 </html>
