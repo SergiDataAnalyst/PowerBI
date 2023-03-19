@@ -107,13 +107,14 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
       </div>
       <iframe title="netflix" width="900" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
       </div>
-      
+      On this page, you can explore a collection of the Power BI dashboards that I have personally crafted. Each dashboard serves as a testament to my data visualization expertise and showcases my dedication to delivering top-notch, intuitive, and insightful data-driven solutions. Please feel free to browse through my portfolio and witness the power of visually appealing and interactive dashboards.
+
       <div class="dashboard">
       <div class="dashboard-header">
         <h2>Netflix TV Shows and Movies Stats by Country</h2>
         <p>This Power BI dashboard provides an analysis of TV shows and movies available on Netflix, including their distribution across different countries and genres.</p>
       </div>
-      <iframe title="netflix" width="900" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+      <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com      /view?r=eyJrIjoiZGVkYTg0YTQtNmFiZC00ZWJhLTg3NDMtZjhlNjQ5ZDAxNDZhIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
       </div>
       
       <div class="dashboard">
