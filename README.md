@@ -2,128 +2,91 @@
 
 On this page, you can explore a collection of the Power BI dashboards that I have personally crafted. Each dashboard serves as a testament to my data visualization expertise and showcases my dedication to delivering top-notch, intuitive, and insightful data-driven solutions. Please feel free to browse through my portfolio and witness the power of visually appealing and interactive dashboards.
 
-
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Power BI Dashboards</title>
+    <meta charset="UTF-8">
+    <title>Data Science Portfolio</title>
     <style>
       body {
-        font-family: Arial, sans-serif;
-        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+        font-family: 'Roboto', sans-serif;
       }
-      .dashboard {
-        background-color: white;
-        margin: 20px auto;
-        width: 900px;
-        height: 500px;
-        box-shadow: 0px 0px 10px grey;
+      header {
+        background-color: #1c1c1c;
+        color: white;
+        padding: 2rem;
       }
-      .dashboard-header {
-        padding: 20px;
-        background-color: #f5f5f5;
-        border-bottom: 1px solid #ddd;
-      }
-      .dashboard-header h2 {
-        font-size: 24px;
+      h1 {
         margin: 0;
       }
-      .dashboard-header p {
-        font-size: 14px;
-        color: #888;
-      }
-      .dashboard-body {
-        padding: 20px;
-        height: calc(100% - 60px);
-      }
-      .dashboard-body iframe {
-        border: none;
-      }
-      .dashboard-footer {
-        padding: 20px;
-        background-color: #f5f5f5;
-        border-top: 1px solid #ddd;
-        text-align: right;
-      }
-      .dashboard-footer a {
-        color: #888;
-        text-decoration: none;
-        font-size: 12px;
-      }
-      .dashboard-footer a:hover {
-        text-decoration: underline;
-      }
-      .dashboard-links {
+      nav {
         display: flex;
-        justify-content: space-around;
-        margin: 20px auto;
-        width: 80%;
+        justify-content: space-between;
+        align-items: center;
       }
-      .dashboard-links a {
-        display: block;
-        background-color: white;
-        padding: 10px;
-        border-radius: 5px;
-        box-shadow: 0px 0px 10px grey;
-        text-align: center;
-        text-decoration: none;
-        color: #333;
-        font-size: 16px;
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
       }
-      .dashboard-links a:hover {
-        background-color: #f5f5f5;
+      li {
+        margin: 0 1rem;
       }
-      .dashboard-links a.active {
-        background-color: #333;
+      a {
         color: white;
+        text-decoration: none;
       }
-      .dashboard-links a.active:hover {
-        background-color: #444;
+      main {
+        padding: 2rem;
       }
-      .dashboard-description {
-        margin: 20px auto;
-        width: 80%;
-        text-align: center;
+      .project {
+        margin-bottom: 2rem;
       }
-      .dashboard-description h2 {
-        font-size: 32px;
-        margin: 20px 0;
+      .project h2 {
+        margin: 0 0 1rem 0;
       }
-      .dashboard-description p {
-        font-size: 18px;
-        color: #888;
-        line-height: 24px;
-      }
-      .powerbi-iframe {
+      .project iframe {
         width: 100%;
-        height: 100%;
+        height: 60vh;
+        border: none;
       }
     </style>
   </head>
   <body>
-    <div class="dashboard">
-      <div class="dashboard-header">
-        <h2>Netflix TV Shows and Movies Stats by Country</h2>
-        <p>This Power BI dashboard provides an analysis of TV shows and movies available on Netflix, including their distribution across different countries and genres.</p>
+    <header>
+      <nav>
+        <h1>Data Science Portfolio</h1>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="project">
+        <h2>Project 1</h2>
+        <p>Description of project 1 goes here...</p>
+        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" ></iframe>
       </div>
-      <iframe title="netflix" width="900" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+      <div class="project">
+        <h2>Project 2</h2>
+        <p>Description of project 1 goes here...</p>
+        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9"></iframe>
       </div>
-      On this page, you can explore a collection of the Power BI dashboards that I have personally crafted. Each dashboard serves as a testament to my data visualization expertise and showcases my dedication to delivering top-notch, intuitive, and insightful data-driven solutions. Please feel free to browse through my portfolio and witness the power of visually appealing and interactive dashboards.
-
-      <div class="dashboard">
-      <div class="dashboard-header">
-        <h2>Netflix TV Shows and Movies Stats by Country</h2>
-        <p>This Power BI dashboard provides an analysis of TV shows and movies available on Netflix, including their distribution across different countries and genres.</p>
-      </div>
-<iframe title="logistics dashboard2" width="900" height="750" src="https://app.powerbi.com/view?r=eyJrIjoiZGVkYTg0YTQtNmFiZC00ZWJhLTg3NDMtZjhlNjQ5ZDAxNDZhIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-      </div>
-      
-      <div class="dashboard">
-      <div class="dashboard-header">
-        <h2>Netflix TV Shows and Movies Stats by Country</h2>
-        <p>This Power BI dashboard provides an analysis of TV shows and movies available on Netflix, including their distribution across different countries and genres.</p>
-      </div>
-      <iframe title="netflix" width="900" height="650" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-      </div>
-
-</body>
+      <div class="project">
+        <h2>Project 3</h2>
+        <p>Description of project 1 goes here... </p>
+        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9"></iframe>
+        </div>
+    </main>
+    <footer>
+      <p>&copy; 2023 Data Science Portfolio</p>
+    </footer>
+  </body>
 </html>
+
