@@ -55,7 +55,7 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
   <body>
     <header>
       <nav>
-        <h1>Data Science Portfolio</h1>
+        <h1>Power BI Projects</h1>
         <ul>
           <li><a href="#">Home</a></li>
           <li><a href="#">Projects</a></li>
