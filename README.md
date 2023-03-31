@@ -81,7 +81,7 @@
       <div class="project">
         <h2>Project 3</h2>
         <p>Description of project 1 goes here... </p>
-        <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYzc1NDNmNzEtMjQ0ZS00YWQ5LTgwYTItZGRkZTY5Y2EzYzBkIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+        <iframe title="Report Section" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiYjJmNGRmZTctZGNjYy00MTRhLWI0ZTMtZDMwNDNlOTk0YTQwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
         <p>Description of project 1 goes here... </p>
         </div>
     </main>
