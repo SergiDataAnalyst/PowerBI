@@ -71,6 +71,8 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
       <div class="project">
         <h2>Project 1</h2>
         <p>Description of project 1 goes here...</p>
+        <iframe title="logistics dashboard2" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZGVkYTg0YTQtNmFiZC00ZWJhLTg3NDMtZjhlNjQ5ZDAxNDZhIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+        
         <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" ></iframe>
       </div>
       <div class="project">
