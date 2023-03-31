@@ -1,12 +1,9 @@
-# Projects
-
 On this page, you can explore a collection of the Power BI dashboards that I have personally crafted. Each dashboard serves as a testament to my data visualization expertise and showcases my dedication to delivering top-notch, intuitive, and insightful data-driven solutions. Please feel free to browse through my portfolio and witness the power of visually appealing and interactive dashboards.
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Data Science Portfolio</title>
+    <title>Power BI Portfolio</title>
     <style>
       body {
         margin: 0;
@@ -70,20 +67,22 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
     <main>
       <div class="project">
         <h2>Project 1</h2>
-        <p>Description of project 1 goes here...</p>
+        <p>This Netflix TV shows and movies Power BI dashboard is an interactive tool that facilitates exploring and analyzing key data about the streaming service's content. With a year slicer, users can easily filter and navigate through the data. The dashboard displays the amount of titles added per year, the total number of titles available on the platform, and the top 5 countries with the most titles.</p>
         <iframe title="logistics dashboard2" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZGVkYTg0YTQtNmFiZC00ZWJhLTg3NDMtZjhlNjQ5ZDAxNDZhIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
         
         <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" ></iframe>
       </div>
       <div class="project">
         <h2>Project 2</h2>
-        <p>Description of project 1 goes here...</p>
+        <p>This Power BI dashboard showcases data on orders across the US with a state-level view. The dashboard has an interactive date slicer and a category tree that enables users to filter products. The customer order table provides insights into the order types (first class, same day, standard class). The map visual enables the user to explore the order distribution across different states in the US, while the customer order table provides an overview of the order types and their frequency.</p>
         <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9"></iframe>
+        <p>The dashboard reveals that the majority of orders are from the eastern part of the US, with higher orders in New York and California. The customer order table suggests that most orders are of standard class and that there is a substantial number of same day orders. The category tree reveals the product categories with higher sales, which could be used to focus on marketing efforts for these categories. \n first class orders are consistently more profitable than standard class orders, the company could consider offering incentives to customers to choose the first class option, such as free shipping or a discount on their next order. Additionally, the company could analyze customer feedback and reviews to identify areas for improvement in their current order options, such as delivery times or shipping costs, and make adjustments accordingly. </p>
       </div>
       <div class="project">
         <h2>Project 3</h2>
         <p>Description of project 1 goes here... </p>
         <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9"></iframe>
+        <p>Description of project 1 goes here... </p>
         </div>
     </main>
     <footer>
@@ -91,5 +90,3 @@ On this page, you can explore a collection of the Power BI dashboards that I hav
     </footer>
   </body>
 </html>
-
- 
