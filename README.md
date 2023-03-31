@@ -69,7 +69,7 @@
         <p>This page features a selection of Power BI dashboards that I have created. Each dashboard is a reflection of my skills in data visualization and my commitment to providing high-quality and easy-to-use data solutions.</p>
         <h2>Project 1</h2>
         <p>This Netflix TV shows and movies Power BI dashboard is an interactive tool that facilitates exploring and analyzing key data about the streaming service's content. With a year slicer, users can easily filter and navigate through the data. The dashboard displays the amount of titles added per year, the total number of titles available on the platform, and the top 5 countries with the most titles.</p>
-        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" ></iframe>
+        <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWIwOGNjNGEtNTZhZi00N2EyLWIzN2QtN2YyYmVlMzU2MTBmIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9&pageName=ReportSection8fc753b541598783deb9" frameborder="0" allowFullScreen="true"></iframe>
       </div>
       <div class="project">
         <h2>Project 2</h2>
