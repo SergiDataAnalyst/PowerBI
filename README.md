@@ -80,6 +80,7 @@
       <div class="project">
         <h2>Project 3</h2>
         <p>Description of project 1 goes here... </p>
+                <iframe title="Report Section" width="600" height="900" src="https://app.powerbi.com/view?r=eyJrIjoiMTQ3OTgxMmMtYWI5Zi00ZTVmLTlkMGMtODMzMzliZTFiMDAwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
         <iframe title="Report Section" width="600" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMTQ3OTgxMmMtYWI5Zi00ZTVmLTlkMGMtODMzMzliZTFiMDAwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
         <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDE5YTliZjYtM2E0Yy00M2JkLTg5Y2YtMGQ3MjhkMjZiNjE4IiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
         <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZDY2MTAtNDdhYS00YTAzLWE0MGMtODljNDdlN2MxYjcwIiwidCI6ImNmY2M3N2NlLWQxYzctNDI5OS05YWRmLTRkZWJmNmM5NTJhNCIsImMiOjl9"></iframe>
