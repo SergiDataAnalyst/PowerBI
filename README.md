@@ -60,7 +60,7 @@
           <li><a href="#"> </a></li>
           <li><a href="https://sergidataanalyst.github.io/Projects/">Back</a></li>
           <li><a href="https://www.linkedin.com/in/sergio-calzon/">Linkedin</a></li>
-          <li><a href="#">About</a></li>
+          <li><a href="https://sergidataanalyst.github.io/Projects/#about-me-%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F">About</a></li>
           <li><a href="mailto:sergi.cmolina@gmail.com">Contact</a></li>
         </ul>
       </nav>
